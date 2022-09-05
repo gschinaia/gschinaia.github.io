@@ -36,9 +36,10 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- GS: Adding dark-theme-toggle -->
-  <link rel="stylesheet" href="common.css">
-  <link rel="stylesheet" href="light.css" media="(prefers-color-scheme: light)">
-  <link rel="stylesheet" href="dark.css" media="(prefers-color-scheme: dark)">
-  <script type="module" src="https://googlechromelabs.github.io/dark-mode-toggle/src/dark-mode-toggle.mjs"></script>
+     {% if site.minimal_mistakes_skin2 %}
+      <button type="button" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;">
+        HI!
+      </button>
+    {% endif %}
 
 <!-- end custom head snippets -->
