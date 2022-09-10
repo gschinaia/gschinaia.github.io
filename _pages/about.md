@@ -47,7 +47,7 @@ Draft available upon request.
 
 "Investing in Human Capital and Foundational Skills", _with Emily Gardner_ in [Guinea-Bissau  Country  Economic Memorandum](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/473261604385132681/guinea-bissau-country-economic-memorandum-escaping-the-low-growth-trap). 2020. World Bank, pp. 47-73. 
 
-"Guinea-Bissau Malaria Indicator Survey 2017 Report", _with Amabélia, Cesério Martins, Ronise da Silva, Bruno da Silva, Aladje Balde, Tom Hall_. 2018. Bissau Health Project.
+"Guinea-Bissau Malaria Indicator Survey 2017 Report", _with Amabélia Rodrigues, Cesério Martins, Ronise da Silva, Bruno da Silva, Aladje Balde, Tom Hall_. 2018. Bissau Health Project.
 
 ## Teaching
 
