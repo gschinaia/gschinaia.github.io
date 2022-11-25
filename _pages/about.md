@@ -51,11 +51,11 @@ Draft available upon request.
 
 ## Teaching
 
-* Undergraduate Development Economics (Tutorials), Department of Economics, University of Oxford, (scheduled) 2023.
-* Undergraduate Econometrics (Tutorials), Merton College & Exeter College, University of Oxford, 2022- (scheduled) 2023.
-* Undergraduate Econometrics and Microeconomics (Revision classes), Merton College, University of Oxford, 2022.
-* Undergraduate Introduction to Economics and Statistics (Revision classes), Merton College, University of Oxford, 2022.
-* Postgraduate Policy Evaluation (Seminars), Blavatnik School of Government, University of Oxford, 2021.
+* Development Economics (Undergradaute tutorials), Department of Economics, University of Oxford, (scheduled) 2023.
+* Econometrics (Undergraduate tutorials), Merton College & Exeter College, University of Oxford, 2022- (scheduled) 2023.
+* Econometrics and Microeconomics (Undergraduate revision classes), Merton College, University of Oxford, 2022.
+* Introduction to Economics and Statistics (Undergraduate revision classes), Merton College, University of Oxford, 2022.
+* Policy Evaluation (Postgraduate seminars), Blavatnik School of Government, University of Oxford, 2021.
 
 ## Coding and methods
 
