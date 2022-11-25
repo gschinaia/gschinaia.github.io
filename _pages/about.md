@@ -51,12 +51,13 @@ Draft available upon request.
 
 ## Teaching
 
-* Core Econometrics Tutorials, Merton College & Exeter College, University of Oxford, 2022.
-* Core Econometrics and Microeconomics (Revision classes), Merton College, University of Oxford, 2022.
-* Prelims Economics (Revision classes), Merton College, University of Oxford, 2022.
-* Seminar Leader for Evidence in Public Policy, Blavatnik School of Government, University of Oxford, 2021.
+* Undergraduate Development Economics (Tutorials), Department of Economics, University of Oxford, (scheduled) 2023.
+* Undergraduate Econometrics (Tutorials), Merton College & Exeter College, University of Oxford, 2022- (scheduled) 2023.
+* Undergraduate Econometrics and Microeconomics (Revision classes), Merton College, University of Oxford, 2022.
+* Undergraduate Introduction to Economics and Statistics (Revision classes), Merton College, University of Oxford, 2022.
+* Postgraduate Policy Evaluation (Seminars), Blavatnik School of Government, University of Oxford, 2021.
 
-## Posts on coding and methods
+## Coding and methods
 
 * [An Introduction to Estimating Dynamic Discrete Choice Models: A Matlab example](https://github.com/shihangh/ddc_rust) with [Shihang Hou](https://www.shihanghou.com/home)
 * [Regularisation in Stata (before Stata 17)](https://www.csae.ox.ac.uk/files/coderscornerttweek7fmpdf) 
