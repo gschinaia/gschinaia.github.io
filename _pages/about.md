@@ -9,7 +9,9 @@ redirect_from:
 ---
 I am a PhD (DPhil) candidate at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
-My research interests are in development, labour, and behavioural economics. I use randomised and natural experiments to help answer policy questions. \
+In the fall of 2023, I will join the [Development Innovation Lab](https://bfi.uchicago.edu/development-innovation-lab/) at the University of Chicago as a Postdoctoral Scholar.
+
+My research interests are in development, labour, and behavioural economics. I use randomised and natural experiments to help answer policy questions.
 My current research studies firm and household behaviour in low-income rural settings.
 
 I am also affiliated with the [Applied Microeconomics research group](https://www.economics.ox.ac.uk/applied-microeconomics-0), the [Bissau Economics Lab](https://bissaueconomicslab.weebly.com/), the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), and the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/).
@@ -23,7 +25,7 @@ I am also affiliated with the [Applied Microeconomics research group](https://ww
 </summary>
   <br>
   <p><i>Abstract:</i>  Does lack of information reduce the ability of producers to find the right time to sell their products? To answer this question, we ran a two-level cluster randomised controlled experiment among cashew producers in 290 villages in Guinea-Bissau. Treated producers received weekly messages to their mobiles during the trading season in 2020. The messages provided up-to-date market news, farmgate prices, and gave sales advice. Treated producers earned more from their transactions and sold their cashews more frequently relative to other producers, who tend to sell their cashews in a single transaction. We find evidence that between-village spillovers may lead us to underestimate treatment effects on average prices within treated villages. We found no evidence suggesting that treated producers changed their buyers, the location of their sales, had better record keeping, or different attitudes towards risk. Given the low cost of our intervention, market information can be a cost-effective tool to increase producers’ incomes. </p>
-<a href="https://bissaueconomicslab.weebly.com/projects.html">Project website</a>; <a href="https://www.socialscienceregistry.org/trials/4740">Pre-analysis plan</a>; Draft available upon request.
+<a href="https://www.socialscienceregistry.org/trials/4740">Pre-analysis plan</a>; Draft available upon request.
 </details>
 <br>
 
@@ -39,7 +41,7 @@ Draft available upon request.
   <summary><b>The Future in Mind: Aspirations and Future-Oriented Behaviour in Rural Ethiopia</b><br>
   <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i></summary>
     <br>
-  <p><i>Abstract:</i>  People living in deprivation may not make long term investments if they doubt that a better life is possible. In a randomised control trial in remote, rural Ethiopia, we test if changing how people perceive their future opportunities alters investment. We show a treatment group video documentaries about the lives of role models from similar communities who escaped poverty through their own efforts in agriculture or business. Five years later, treated household heads report higher labour supply, more use of agricultural inputs and increased education spending. They have accumulated more assets, their children have attained more years of schooling, and they have increased asset wealth, housing quality and food security. We provide evidence consistent with the mechanism being an increase in aspirations. We outline a simple model of household consumption and production with reference-dependent utility, in which aspirations are defined as reference points for consumption and meeting aspirations yields utility over and above the utility of consumption. In such a model, changes in reference points increase effort and investment. We also show in survey data that individuals in treated households report higher aspirations --- hopes for the level of income and assets they hope to attain --- straight after screening and after five years. Furthermore, exposure to video or outsiders and other psychological mechanisms are unlikely to account for effects: a placebo group shown a local entertainment programme are unaffected, and there are no effects of treatment on preferences, social norms and other psychological characteristics. Exploiting randomised intensity of treatment between villages, we find little evidence of aspirations or behaviour change being transmitted between households, suggesting such interventions may need to reach individuals directly.</p>
+  <p><i>Abstract:</i>  Aspirations condition the future-regarding choices of individuals and thus can play a role in the persistence of poverty or the effort to break out of it. In a randomized control trial in remote, rural Ethiopia, we test if changing how poor people perceive their future opportunities alters their aspirations and, through that, modify their investment decisions. We show a treatment group video documentaries about the lives of four individuals from similar communities who escaped poverty through their own efforts and, as such, can serve as role models. Five years after the screening took place, we find that those that watched the videos increased their future-oriented investments in agriculture and towards their children's education. We find that an increase in aspirations in terms of lifetime goals can explain our results.</p>
 <a href="https://mbrg.bsg.ox.ac.uk/mind-and-behaviour-projects/aspirations-and-forward-looking-behaviour-rural-ethiopia">Project website</a>; <a href="https://www.socialscienceregistry.org/trials/1483">Pre-analysis plan</a>
 </details>
 
@@ -51,8 +53,8 @@ Draft available upon request.
 
 ## Teaching
 
-* Development Economics (Undergradaute tutorials), Department of Economics, University of Oxford, (scheduled) 2023.
-* Econometrics (Undergraduate tutorials), Merton College & Exeter College, University of Oxford, 2022- (scheduled) 2023.
+* Development Economics (Undergradaute tutorials), Department of Economics, University of Oxford, 2023.
+* Econometrics (Undergraduate tutorials), Merton College, Exeter College, Worcester College, University of Oxford, 2022-2023.
 * Econometrics and Microeconomics (Undergraduate revision classes), Merton College, University of Oxford, 2022.
 * Introduction to Economics and Statistics (Undergraduate revision classes), Merton College, University of Oxford, 2022.
 * Policy Evaluation (Postgraduate seminars), Blavatnik School of Government, University of Oxford, 2021.
