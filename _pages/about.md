@@ -38,11 +38,11 @@ Draft available upon request.
 <br>
 
 <details>
-  <summary><b>The Future in Mind: Aspirations and Future-Oriented Behaviour in Rural Ethiopia</b><br>
+  <summary><b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
   <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i></summary>
     <br>
-  <p><i>Abstract:</i>  Aspirations condition the future-regarding choices of individuals and thus can play a role in the persistence of poverty or the effort to break out of it. In a randomized control trial in remote, rural Ethiopia, we test if changing how poor people perceive their future opportunities alters their aspirations and, through that, modify their investment decisions. We show a treatment group video documentaries about the lives of four individuals from similar communities who escaped poverty through their own efforts and, as such, can serve as role models. Five years after the screening took place, we find that those that watched the videos increased their future-oriented investments in agriculture and towards their children's education. We find that an increase in aspirations in terms of lifetime goals can explain our results.</p>
-<a href="https://mbrg.bsg.ox.ac.uk/mind-and-behaviour-projects/aspirations-and-forward-looking-behaviour-rural-ethiopia">Project website</a>; <a href="https://www.socialscienceregistry.org/trials/1483">Pre-analysis plan</a>
+  <p><i>Abstract:</i>  Aspirations have been posited to condition the future-oriented choices of individuals and thus can play a role in the persistence of poverty or the effort to break out of it. In a randomised control trial in remote, rural Ethiopia, we assess the effectiveness of an intervention seeking to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries about the lives of individuals from similar communities who escaped poverty through their own efforts and, as such, can serve as role models. Five years after the screening took place, the treated households increased future-oriented investments in agriculture and in children's education. The results can be explained by the increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</p>
+<a href="https://mbrg.bsg.ox.ac.uk/mind-and-behaviour-projects/aspirations-and-forward-looking-behaviour-rural-ethiopia">Project website</a>; <a href="https://www.socialscienceregistry.org/trials/1483">Pre-analysis plan</a>  Draft available upon request.
 </details>
 
 ## Policy reports
