@@ -42,9 +42,8 @@ Draft available upon request.
   <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i></summary>
     <br>
   <p><i>Abstract:</i>  Aspirations have been posited to condition the future-oriented choices of individuals and thus can play a role in the persistence of poverty or the effort to break out of it. In a randomised control trial in remote, rural Ethiopia, we assess the effectiveness of an intervention seeking to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries about the lives of individuals from similar communities who escaped poverty through their own efforts and, as such, can serve as role models. Five years after the screening took place, the treated households increased future-oriented investments in agriculture and in children's education. The results can be explained by the increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</p>
-<a href="https://mbrg.bsg.ox.ac.uk/mind-and-behaviour-projects/aspirations-and-forward-looking-behaviour-rural-ethiopia">Project website</a>; <a href="https://www.socialscienceregistry.org/trials/1483">Pre-analysis plan</a>  Draft available upon request.
+<a href="https://gschinaia.github.io/files/papers/20230919_BDOST.pdf">Working paper 09/2023 </a>; <a href="https://www.socialscienceregistry.org/trials/1483">Pre-analysis plan</a>  <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation 04/2022</a>  
 </details>
-
 ## Policy reports
 
 "Investing in Human Capital and Foundational Skills", _with Emily Gardner_ in [Guinea-Bissau  Country  Economic Memorandum](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/473261604385132681/guinea-bissau-country-economic-memorandum-escaping-the-low-growth-trap). 2020. World Bank, pp. 47-73. 
