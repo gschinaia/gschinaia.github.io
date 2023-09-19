@@ -18,8 +18,6 @@ I am also affiliated with the [Applied Microeconomics research group](https://ww
 
 [**Curriculum Vitae**](https://gschinaia.github.io/files/JM/schinaia_CV.pdf)
 
-## Working papers
-
 ## Work in progress 
 <details>
   <summary><b>Impact of Market Information on Cashew Producers in Guinea-Bissau</b><br>
@@ -39,6 +37,7 @@ Draft available upon request.
 </details>
 <br>
 
+## Working papers
 <details>
   <summary><b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
   <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i></summary>
