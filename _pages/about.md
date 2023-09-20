@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD (DPhil) candidate at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
+I recently defended my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
-<!-- In the fall of 2023, I will join the [Development Innovation Lab](https://bfi.uchicago.edu/development-innovation-lab/) at the University of Chicago as a Postdoctoral Scholar. -->
+<!-- I am working for the [Development Innovation Lab](https://bfi.uchicago.edu/development-innovation-lab/) at the University of Chicago as a Postdoctoral Scholar. -->
 
 My research interests are in development, labour, and behavioural economics. I use randomised and natural experiments to help answer policy questions.
 My current research studies firm and household behaviour in low-income rural settings.
