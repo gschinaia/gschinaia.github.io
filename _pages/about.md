@@ -59,13 +59,19 @@ Draft available upon request.
 "Guinea-Bissau Malaria Indicator Survey 2017 Report", _with Amabélia Rodrigues, Cesério Martins, Ronise da Silva, Bruno da Silva, Aladje Balde, Tom Hall_. 2018. Bissau Health Project.
 
 ## Teaching
-
-* Development Economics (Undergradaute tutorials), Department of Economics, University of Oxford, 2023.
-* Econometrics (Undergraduate tutorials), Merton College, Exeter College, Worcester College, University of Oxford, 2022-2023.
-* Econometrics and Microeconomics (Undergraduate revision classes), Merton College, University of Oxford, 2022.
-* Introduction to Economics and Statistics (Undergraduate revision classes), Merton College, University of Oxford, 2022.
-* Policy Evaluation (Postgraduate seminars), Blavatnik School of Government, University of Oxford, 2021.
-
+<font size= "3">
+<p>
+<b>University of Oxford (undergraduate):</b><br>
+Development Economics (Tutorials),<i> Department of Economics, 2023.</i> <br>
+Econometrics (Tutorials),<i> Merton College, Exeter College, Worcester College, 2022-2023.</i><br>
+Econometrics and Microeconomics (Revision classes),<i> Merton College, 2022.</i><br>
+Introduction to Economics and Statistics(Revision classes), <i> Merton College, 2022.</i><br>
+</p>
+<p>
+<b>University of Oxford (postgraduate):</b><br>
+Policy Evaluation (Seminars),<i> Blavatnik School of Government, 2021.</i></p>
+</font>
+  
 ## Coding and methods
 
 * [An Introduction to Estimating Dynamic Discrete Choice Models: A Matlab example](https://github.com/shihangh/ddc_rust) with [Shihang Hou](https://www.shihanghou.com/home)
