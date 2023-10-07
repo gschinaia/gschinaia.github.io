@@ -61,14 +61,14 @@ Draft available upon request.
 ## Teaching
 <p>
 <b>University of Oxford (undergraduate):</b><br>
-Development Economics (Tutorials), Department of Economics, 2023.<br>
-Econometrics (Tutorials), Merton College, Exeter College, Worcester College, 2022-2023.<br>
-Econometrics and Microeconomics (Revision classes), Merton College, 2022.<br>
-Introduction to Economics and Statistics (Revision classes), Merton College, 2022.<br>
+Development Economics (tutorials), Department of Economics, 2023.<br>
+Econometrics (tutorials), Merton College, Exeter College, Worcester College, 2022-2023.<br>
+Econometrics and Microeconomics (revision classes), Merton College, 2022.<br>
+Introductory Microconomics and Statistics (revision classes), Merton College, 2022.<br>
 </p>
 <p>
 <b>University of Oxford (postgraduate):</b><br>
-Policy Evaluation (Seminars), Blavatnik School of Government, 2021.</p>
+Policy Evaluation (seminars), Blavatnik School of Government, 2021.</p>
   
 ## Coding and methods
 
