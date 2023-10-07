@@ -59,18 +59,16 @@ Draft available upon request.
 "Guinea-Bissau Malaria Indicator Survey 2017 Report", _with Amabélia Rodrigues, Cesério Martins, Ronise da Silva, Bruno da Silva, Aladje Balde, Tom Hall_. 2018. Bissau Health Project.
 
 ## Teaching
-<font size= "3">
 <p>
 <b>University of Oxford (undergraduate):</b><br>
-Development Economics (Tutorials),<i> Department of Economics, 2023.</i> <br>
-Econometrics (Tutorials),<i> Merton College, Exeter College, Worcester College, 2022-2023.</i><br>
-Econometrics and Microeconomics (Revision classes),<i> Merton College, 2022.</i><br>
-Introduction to Economics and Statistics(Revision classes), <i> Merton College, 2022.</i><br>
+Development Economics (Tutorials), Department of Economics, 2023.<br>
+Econometrics (Tutorials), Merton College, Exeter College, Worcester College, 2022-2023.<br>
+Econometrics and Microeconomics (Revision classes), Merton College, 2022.<br>
+Introduction to Economics and Statistics (Revision classes), Merton College, 2022.<br>
 </p>
 <p>
 <b>University of Oxford (postgraduate):</b><br>
-Policy Evaluation (Seminars),<i> Blavatnik School of Government, 2021.</i></p>
-</font>
+Policy Evaluation (Seminars), Blavatnik School of Government, 2021.</p>
   
 ## Coding and methods
 
