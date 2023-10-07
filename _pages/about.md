@@ -41,7 +41,7 @@ Draft available upon request.
 ## Working papers
 <p><b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
   <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i><br>
-<font size= "3">[<a href="https://cepr.org/publications/dp18492">CEPR discussion paper</a> | <a href="https://gschinaia.github.io/files/papers/20230919_BDOST.pdf"> Draft (09/2023)</a> | <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation (04/2022)</a>]</font></p>
+<font size= "3">[<a href="https://cepr.org/publications/dp18492">CEPR discussion paper</a> | <a href="https://gschinaia.github.io/files/papers/20230919_BDOST.pdf"> Draft (09/2023)</a> | <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation</a>]</font></p>
 
 <!-- *
 <details>
