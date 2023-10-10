@@ -25,7 +25,7 @@ I am also affiliated with the [Applied Microeconomics research group](https://ww
   <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares, Sebastian Schäber</i>
 </summary>
   <br>
-  <p><i>Abstract:</i>  Does lack of information reduce the ability of producers to find the right time to sell their products? To answer this question, we ran a two-level cluster randomised controlled experiment among cashew producers in 290 villages in Guinea-Bissau. Treated producers received weekly messages to their mobiles during the trading season in 2020. The messages provided up-to-date market news, farmgate prices, and gave sales advice. Treated producers earned more from their transactions and sold their cashews more frequently relative to other producers, who tend to sell their cashews in a single transaction. We find evidence that between-village spillovers may lead us to underestimate treatment effects on average prices within treated villages. We found no evidence suggesting that treated producers changed their buyers, the location of their sales, had better record keeping, or different attitudes towards risk. Given the low cost of our intervention, market information can be a cost-effective tool to increase producers’ incomes. </p>
+  <p><i>Abstract:</i> Does providing market information to smallholder farmers increase their income? To answer this question, we ran a two-level cluster randomized controlled trial among 1988 cashew producers in 290 villages in Guinea-Bissau. Treated producers received free weekly messages to their mobiles during the trading seasons in 2020 and 2021. The messages provided up-to-date market news, farmgate prices, and gave sales advice. We found that treated producers reported higher prices, mostly during the 2021 season. Treated producers sold their cashews more frequently relative to the other producers, who tend to sell their cashews in a single transaction. We explore several mechanisms to understand our results. We find evidence consistent with information increasing the bargaining power of treated producers, who negotiate better sale deals. Moreover, we find that treated producers also changed the timing of their sales to smooth their income over time. We found no evidence of changes in preferences, or increased salience of transactions as a result of the information sent to treated producers. Given the low cost of our intervention, market information can be a cost-effective tool to increase producers’ revenues.   </p>
 <a href="https://www.socialscienceregistry.org/trials/4740">Pre-analysis plan</a>; Draft available upon request.
 </details>
 <br>
@@ -39,15 +39,19 @@ Draft available upon request.
 <br>
 
 ## Working papers
+<p><b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
+  <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i><br>
+<font size= "3">[<a href="https://cepr.org/publications/dp18492">CEPR discussion paper</a> | <a href="https://gschinaia.github.io/files/papers/20230919_BDOST.pdf"> Draft (09/2023)</a> | <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation</a>]</font></p>
 
+<!-- *
 <details>
   <summary><b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
   <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i></summary>
     <br>
   <p><i>Abstract:</i>  Aspirations have been posited to condition the future-oriented choices of individuals and thus can play a role in the persistence of poverty or the effort to break out of it. In a randomised control trial in remote, rural Ethiopia, we assess the effectiveness of an intervention seeking to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries about the lives of individuals from similar communities who escaped poverty through their own efforts and, as such, can serve as role models. Five years after the screening took place, the treated households increased future-oriented investments in agriculture and in children's education. The results can be explained by the increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</p>
-<a href="https://gschinaia.github.io/files/papers/20230919_BDOST.pdf">Working paper (09/2023)</a>; <a href="https://www.socialscienceregistry.org/trials/1483">Pre-analysis plan</a>;  <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation (04/2022)</a>
+<a href="https://cepr.org/publications/dp18492">CEPR discussion paper</a>; <a href="https://gschinaia.github.io/files/papers/20230919_BDOST.pdf"> Draft (09/2023)</a>; <a href="https://www.socialscienceregistry.org/trials/1483">Pre-analysis plan</a>;  <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation (04/2022)</a>
 </details>
-
+ -->
 ## Policy reports
 
 "Investing in Human Capital and Foundational Skills", _with Emily Gardner_ in [Guinea-Bissau  Country  Economic Memorandum](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/473261604385132681/guinea-bissau-country-economic-memorandum-escaping-the-low-growth-trap). 2020. World Bank, pp. 47-73. 
@@ -55,13 +59,17 @@ Draft available upon request.
 "Guinea-Bissau Malaria Indicator Survey 2017 Report", _with Amabélia Rodrigues, Cesério Martins, Ronise da Silva, Bruno da Silva, Aladje Balde, Tom Hall_. 2018. Bissau Health Project.
 
 ## Teaching
-
-* Development Economics (Undergradaute tutorials), Department of Economics, University of Oxford, 2023.
-* Econometrics (Undergraduate tutorials), Merton College, Exeter College, Worcester College, University of Oxford, 2022-2023.
-* Econometrics and Microeconomics (Undergraduate revision classes), Merton College, University of Oxford, 2022.
-* Introduction to Economics and Statistics (Undergraduate revision classes), Merton College, University of Oxford, 2022.
-* Policy Evaluation (Postgraduate seminars), Blavatnik School of Government, University of Oxford, 2021.
-
+<p>
+<b>University of Oxford (undergraduate):</b><br>
+Development Economics (tutorials), Department of Economics, 2023.<br>
+Econometrics (tutorials), Merton College, Exeter College, Worcester College, 2022-2023.<br>
+Econometrics and Microeconomics (revision classes), Merton College, 2022.<br>
+Introductory Microconomics and Statistics (revision classes), Merton College, 2022.<br>
+</p>
+<p>
+<b>University of Oxford (postgraduate):</b><br>
+Policy Evaluation (seminars), Blavatnik School of Government, 2021.</p>
+  
 ## Coding and methods
 
 * [An Introduction to Estimating Dynamic Discrete Choice Models: A Matlab example](https://github.com/shihangh/ddc_rust) with [Shihang Hou](https://www.shihanghou.com/home)
