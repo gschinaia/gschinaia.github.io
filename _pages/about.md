@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recently defended my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
+I recently completed my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
 <!-- I am working for the [Development Innovation Lab](https://bfi.uchicago.edu/development-innovation-lab/) at the University of Chicago as a Postdoctoral Scholar. -->
 
