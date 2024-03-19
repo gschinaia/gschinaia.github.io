@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I am a Postdoctoral Scholar at the [Development Innovation Lab](https://bfi.uchicago.edu/development-innovation-lab/), part of the Becker Friedman Institute at the University of Chicago.
 
-I earnt my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
+I completed my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
 My research interests are in development, labour, and behavioural economics. I use randomised and natural experiments to help answer policy questions.
 My current research studies firm and household behaviour in low-income rural settings.
