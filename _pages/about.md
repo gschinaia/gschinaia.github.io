@@ -7,18 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recently defended my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
-<!-- I am working for the [Development Innovation Lab](https://bfi.uchicago.edu/development-innovation-lab/) at the University of Chicago as a Postdoctoral Scholar. -->
+
+Hi! I am a Postdoctoral Scholar at the [Development Innovation Lab](https://bfi.uchicago.edu/development-innovation-lab/), part of the Becker Friedman Institute at the University of Chicago.
+
+I completed my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
 My research interests are in development, labour, and behavioural economics. I use randomised and natural experiments to help answer policy questions.
 My current research studies firm and household behaviour in low-income rural settings.
 
-I am also affiliated with the [Applied Microeconomics research group](https://www.economics.ox.ac.uk/applied-microeconomics-0), the [Bissau Economics Lab](https://bissaueconomicslab.weebly.com/), the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), and the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/).
+I am also affiliated with the [Bissau Economics Lab](https://www.bissaueconomicslab.com/), the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), and the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/).
 
-[**Curriculum Vitae**](https://gschinaia.github.io/files/JM/schinaia_CV.pdf)
+[**Curriculum Vitae**](https://gschinaia.github.io/files/gschinaia_cv.pdf)
 
-## Work in progress 
+
+## Selected work in progress 
 
 <details>
   <summary><b>Impact of Market Information on Cashew Producers in Guinea-Bissau</b><br>
