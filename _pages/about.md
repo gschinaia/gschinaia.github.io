@@ -41,6 +41,15 @@ Draft available upon request.
 </details>
 <br>
 
+<details>
+    <summary><b>Demand for Building State Effectiveness</b><br> <i>with Yetsedaw Emagne Bekele, Harry Dienes, Dan Rogger</i></summary> 
+  br> <p><i>Abstract:</i> Training and professional development are essential for building an effective workforce. Yet where benefits of capacity building accrue to society, such as with public servants, individuals may under-invest in professional development relative to the social optimum. This paper presents evidence on the extent of demand for professional development in public administration. We elicit incentive-compatible willingness-to-pay for professional development opportunities among civil servants in Ethiopia. Our findings reveal prevalent low demand for professional development activities key to building state capacity. The median respondent values access to a professional development activity as much as a packet of pens. However, demand is highly elastic, and almost all public officials are willing to undertake training for a small subsidy. An ongoing follow-up experiment aims to disentangle whether the low demand is driven by low private returns to training or by externalities that respondents fail to internalize.</p> <a href="https://www.socialscienceregistry.org/trials/12407">Pre-registered at</a> </details> <br> 
+  
+<details> <summary><b>Long-run effects of Asset-collateralized loans</b><br> 
+  <i>with Joshua Deutschmann, Alex Lehner, Michael Kremer</i></summary> <br> 
+  <p><i>Abstract:</i> We study the long-run impacts of increased access to asset-collateralized loans for water tanks on the incomes and resilience of members of a dairy cooperative and affiliated SACCO in Kenya. We compare farmers who were randomly offered a 96-percent asset-collateralized water tank loan to farmers offered a 75-percent asset-collateralized loan. Farmers who received the 96-percent loan offer in 2012 sold roughly 10 percent more milk over the period 2013-2022 than farmers who received the 75-percent offer. Access to the 96-percent collateralized loan product increases resilience during dry spells for up to six weeks, and reduces drop-out from selling milk to the dairy cooperative. In a survey with a subset of these farmers, we find that, by 2023, farmers that received the 96-percent collateralized loan offer in 2012 own a similar number of water tanks, but have more water storage capacity and spend less time fetching water. We find no evidence of changes in aggregate herd sizes, suggesting this intervention may have reduced the emissions intensity of production.</p> 
+</details> <br>
+
 ## Working papers
 <p><b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
   <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i><br>
