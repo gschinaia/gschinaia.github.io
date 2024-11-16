@@ -15,7 +15,7 @@ I completed my PhD (DPhil) at the [Department of Economics](https://www.economic
 
 My research interests are in development, labour, and behavioural economics. I use randomised and natural experiments to help answer policy questions. I am interested in how digital technologies, social protection programmes, and financial innovations impact households in low-income rural settings, as well as studying interventions to enhance state effectiveness.
 
-I am also scientific director at the [Bissau Economics Lab](https://www.bissaueconomicslab.com/).
+I am also affiliated with the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/), and scientific director at the [Bissau Economics Lab](https://www.bissaueconomicslab.com/).
 
 [**Curriculum Vitae**](https://gschinaia.github.io/files/gschinaia_cv.pdf)
 
