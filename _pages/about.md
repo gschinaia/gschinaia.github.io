@@ -35,18 +35,15 @@ I am also affiliated with the [Bissau Economics Lab](https://www.bissaueconomics
 <br>
 
 <b>Labour Market Effects of Ethiopia's Social Safety Net</b>
-<details>
-  <summary><i>Abstract:</i></summary>
-    <br>
+<details> <summary><i>abstract</i></summary>
   <p>  This  paper assesses how a large transfer programme combining public works and unconditional transfers to food-insecure households in rural Ethiopia affects local labour markets. Using  repeated cross-sections of the National Labour Force Survey, I show that the programme did not change employment rates or wages in this rural economy. Instead, I find that workers shifted from agricultural to non-agricultural self-employment. I complement this analysis using  data from the Ethiopian Socio-Economic surveys and find similar results.  These results are at odds with previous work due to the thinness of rural wage markets in Ethiopia.</p>
 Draft available upon request.
 </details>
 <br>
 
 <b>Demand for Building State Effectiveness</b><br> <i>with Yetsedaw Emagne Bekele, Harry Dienes, Dan Rogger</i>
-<details>
-    <summary><i>abstract</i></summary> 
-  <br> <p> Training and professional development are essential for building an effective workforce. Yet where benefits of capacity building accrue to society, such as with public servants, individuals may under-invest in professional development relative to the social optimum. This paper presents evidence on the extent of demand for professional development in public administration. We elicit incentive-compatible willingness-to-pay for professional development opportunities among civil servants in Ethiopia. Our findings reveal prevalent low demand for professional development activities key to building state capacity. The median respondent values access to a professional development activity as much as a packet of pens. However, demand is highly elastic, and almost all public officials are willing to undertake training for a small subsidy. An ongoing follow-up experiment aims to disentangle whether the low demand is driven by low private returns to training or by externalities that respondents fail to internalize.</p> <a href="https://www.socialscienceregistry.org/trials/12407">Pre-registered at</a> </details> <br> 
+<details> <summary><i>abstract</i></summary> 
+  <br> <p> Training and professional development are essential for building an effective workforce. Yet where benefits of capacity building accrue to society, such as with public servants, individuals may under-invest in professional development relative to the social optimum. This paper presents evidence on the extent of demand for professional development in public administration. We elicit incentive-compatible willingness-to-pay for professional development opportunities among civil servants in Ethiopia. Our findings reveal prevalent low demand for professional development activities key to building state capacity. The median respondent values access to a professional development activity as much as a packet of pens. However, demand is highly elastic, and almost all public officials are willing to undertake training for a small subsidy. An ongoing follow-up experiment aims to disentangle whether the low demand is driven by low private returns to training or by externalities that respondents fail to internalize.</p> <a href="https://www.socialscienceregistry.org/trials/12407">Pre-analysis plan</a> </details> <br> 
 
   <b>Long-run effects of Asset-collateralized loans</b><br> 
    <i>with Joshua Deutschmann, Alex Lehner, Michael Kremer</i>
