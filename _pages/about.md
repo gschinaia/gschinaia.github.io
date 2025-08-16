@@ -20,7 +20,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 
 ## Job Market Paper 
 
-<b>Asymmetric Information and Bargaining: Experimental Evidence From Guinea-Bissau</b><br>
+<b>Asymmetric Information and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
   <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i>
 <details>
   <summary> <i>abstract</i></summary>
