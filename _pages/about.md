@@ -44,7 +44,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 
 ## Selected work in progress 
 
-  <b>Long-run Effects of Asset-collateralized Loans</b><br> 
+  <b>Long-run Effects of Increased Access to Asset-collateralized Loans</b><br> 
    <i>with Joshua Deutschmann, Alex Lehner, Michael Kremer</i>
 <details> <summary> <i>abstract</i>  </summary> 
   <p> We study the long-run impacts of a temporary expansion in access to water-tank financing for dairy farmers in Kenya. In 2012, farmers were randomly offered a loan with less-restrictive borrowing conditions, enabling treated farmers to acquire water tanks up to seven years earlier than farmers in the control group. By 2023, control households caught up to treated farmers and owned a similar number of tanks. We also document spillovers in technology adoption among neighbors and along milk transporter routes. Control farmers with more treated farmers nearby or sharing a milk transporter with more treated farmers were more likely to adopt water tanks early and have persistently greater water storage in 2023 than other control farmers. Treated farmers sold 10 percent more milk on average between 2013 and 2022 and were less likely to exit cooperative sales. They had  higher savings balances, reduced reliance on credit for school fees, and greater investment in girls’ education, with treated girls attending school 10 percent more days per week. </p> Draft available upon request.
