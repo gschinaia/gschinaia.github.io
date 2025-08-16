@@ -21,7 +21,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 ## Job Market Paper 
 
 <b>Asymmetric Information and Bargaining: Experimental Evidence From Guinea-Bissau</b><br>
-  <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares r</i>
+  <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i>
 <details>
   <summary> <i>abstract</i></summary>
   <p> We study how reducing asymmetric information affects market outcomes using a nationwide cluster-randomised trial with cashew producers across 290 villages in Guinea-Bissau. Treated producers received weekly digital updates with market news, farmgate prices, and sales guidance over two trading seasons. Access to this information increased sale prices and encouraged producers to spread sales across multiple transactions. We find evidence of increased bargaining power among treated producers and between-village spillovers, likely transmitted via itinerant buyers that interacted with treated producers. Our results show that low-cost digital market information systems can increase price pass-through to producers in export-oriented commodity markets.   </p>
@@ -41,7 +41,7 @@ We run a randomised control trial in remote, rural Ethiopia to explore this and 
 <b>Demand for Building State Effectiveness</b><br> <i>with Yetsedaw Emagne Bekele, Harry Dienes, Dan Rogger</i>
 <details> <summary><i>abstract</i></summary> 
   <p> Investments in public sector workers’ human capital can generate social returns by improving service delivery and state effectiveness. Yet it is unclear whether public workers internalise these broader benefits when making investment decisions. We elicit willingness-to-pay (WTP) for professional development from Ethiopian public servants and embed randomized interventions targeting perceived returns. Baseline WTP is positive but well below implementation costs. Explicitly emphasising private benefits modestly raises demand, more so than highlighting societal returns. Implicitly increasing the salience of a supportive managerial environment substantially increases WTP, underscoring the role of perceived organisational norms in public service investment decisions.</p> <a href="https://www.socialscienceregistry.org/trials/12407">Pre-analysis plan</a> 
-Email me for latest draft. </details> <br> 
+ Draft available upon request. </details> <br> 
 
 ## Selected work in progress 
 
