@@ -7,55 +7,63 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-Hi! I am a Postdoctoral Scholar at the [Development Innovation Lab](https://bfi.uchicago.edu/development-innovation-lab/), part of the Becker Friedman Institute at the University of Chicago.
+Hi! I am a Postdoctoral Scholar at the [Development Innovation Lab](https://bfi.uchicago.edu/development-innovation-lab/) at the University of Chicago.
 
 I completed my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
-My research interests are in development, labour, and behavioural economics. I use randomised and natural experiments to help answer policy questions.
-My current research studies firm and household behaviour in low-income rural settings.
+My main research interests are in development, behavioural, and organisational economics. I use randomised and natural experiments to help answer policy questions. I am currently studying how digital and financial innovations impact households in low-income rural settings, as well as studying interventions to enhance state effectiveness.
 
-I am also affiliated with the [Bissau Economics Lab](https://www.bissaueconomicslab.com/), the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), and the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/).
+I am also affiliated with the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/), and scientific director at the [Bissau Economics Lab](https://www.bissaueconomicslab.com/).
 
 [**Curriculum Vitae**](https://gschinaia.github.io/files/gschinaia_cv.pdf)
 
 
-## Selected work in progress 
+## Job Market Paper 
 
+<b>Asymmetric Information and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
+  <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i>
 <details>
-  <summary><b>Impact of Market Information on Cashew Producers in Guinea-Bissau</b><br>
-  <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares, Sebastian Schäber</i>
-</summary>
-  <br>
-  <p><i>Abstract:</i> Does providing market information to smallholder farmers increase their income? To answer this question, we ran a two-level cluster randomized controlled trial among 1988 cashew producers in 290 villages in Guinea-Bissau. Treated producers received free weekly messages to their mobiles during the trading seasons in 2020 and 2021. The messages provided up-to-date market news, farmgate prices, and gave sales advice. We found that treated producers reported higher prices, mostly during the 2021 season. Treated producers sold their cashews more frequently relative to the other producers, who tend to sell their cashews in a single transaction. We explore several mechanisms to understand our results. We find evidence consistent with information increasing the bargaining power of treated producers, who negotiate better sale deals. Moreover, we find that treated producers also changed the timing of their sales to smooth their income over time. We found no evidence of changes in preferences, or increased salience of transactions as a result of the information sent to treated producers. Given the low cost of our intervention, market information can be a cost-effective tool to increase producers’ revenues.   </p>
+  <summary> <i>abstract</i></summary>
+  <p> We study how reducing asymmetric information affects market outcomes using a nationwide cluster-randomised trial with cashew producers across 290 villages in Guinea-Bissau. Treated producers received weekly digital updates with market news, farmgate prices, and sales guidance over two trading seasons. Access to this information increased sale prices and encouraged producers to spread sales across multiple transactions. We find evidence of increased bargaining power among treated producers and between-village spillovers, likely transmitted via itinerant buyers that interacted with treated producers. Our results show that low-cost digital market information systems can increase price pass-through to producers in export-oriented commodity markets.   </p>
 <a href="https://www.socialscienceregistry.org/trials/4740">Pre-analysis plan</a>; Draft available upon request.
 </details>
 <br>
 
-<details>
-  <summary><b>Labour Market Effects of Ethiopia's Social Safety Net</b></summary>
-    <br>
-  <p><i>Abstract:</i>  This  paper assesses how a large transfer programme combining public works and unconditional transfers to food-insecure households in rural Ethiopia affects local labour markets. Using  repeated cross-sections of the National Labour Force Survey, I show that the programme did not change employment rates or wages in this rural economy. Instead, I find that workers shifted from agricultural to non-agricultural self-employment. I complement this analysis using  data from the Ethiopian Socio-Economic surveys and find similar results.  These results are at odds with previous work due to the thinness of rural wage markets in Ethiopia.</p>
+## Working papers
+<b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
+  <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i>
+<font size= "3">[<a href="https://cepr.org/publications/dp18492">CEPR discussion paper</a> | <a href="https://gschinaia.github.io/files/papers/20250625_BDOST.pdf"> Draft (06/2025)</a> | <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation</a>]</font>
+<details> <summary><i>abstract</i></summary> 
+  <p> Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomised control trial in remote, rural Ethiopia to explore this and evaluate an intervention which aims to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children's education and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</p>
+</details>  <br>
+
+<b>Demand for Building State Effectiveness</b><br> <i>with Yetsedaw Emagne Bekele, Harry Dienes, Dan Rogger</i>
+<details> <summary><i>abstract</i></summary> 
+  <p> Investments in public sector workers’ human capital can generate social returns by improving service delivery and state effectiveness. Yet it is unclear whether public workers internalise these broader benefits when making investment decisions. We elicit willingness-to-pay (WTP) for professional development from Ethiopian public servants and embed randomized interventions targeting perceived returns. Baseline WTP is positive but well below implementation costs. Explicitly emphasising private benefits modestly raises demand, more so than highlighting societal returns. Implicitly increasing the salience of a supportive managerial environment substantially increases WTP, underscoring the role of perceived organisational norms in public service investment decisions.</p> <a href="https://www.socialscienceregistry.org/trials/12407">Pre-analysis plan</a> 
+ Draft available upon request. </details> <br> 
+
+## Selected work in progress 
+
+  <b>Long-run Effects of Increased Access to Asset-collateralized Loans</b><br> 
+   <i>with Joshua Deutschmann, Alex Lehner, Michael Kremer</i>
+<details> <summary> <i>abstract</i>  </summary> 
+  <p> We study the long-run impacts of a temporary expansion in access to water-tank financing for dairy farmers in Kenya. In 2012, farmers were randomly offered a loan with less-restrictive borrowing conditions, enabling treated farmers to acquire water tanks up to seven years earlier than farmers in the control group. By 2023, control households caught up to treated farmers and owned a similar number of tanks. We also document spillovers in technology adoption among neighbors and along milk transporter routes. Control farmers with more treated farmers nearby or sharing a milk transporter with more treated farmers were more likely to adopt water tanks early and have persistently greater water storage in 2023 than other control farmers. Treated farmers sold 10 percent more milk on average between 2013 and 2022 and were less likely to exit cooperative sales. They had  higher savings balances, reduced reliance on credit for school fees, and greater investment in girls’ education, with treated girls attending school 10 percent more days per week. </p> Draft available upon request.
+</details> <br>
+
+<b>Labour Market Effects of Ethiopia's Social Safety Net</b>
+<details> <summary><i>abstract</i></summary>
+  <p>  This  paper assesses how a large transfer programme combining public works and unconditional transfers to food-insecure households in rural Ethiopia affects local labour markets. Using  repeated cross-sections of the National Labour Force Survey, I show that the programme did not change employment rates or wages in this rural economy. Instead, I find that workers shifted from agricultural to non-agricultural self-employment. I complement this analysis using  data from the Ethiopian Socio-Economic surveys and find similar results.  These results are at odds with previous work due to the thinness of rural wage markets in Ethiopia.</p>
 Draft available upon request.
 </details>
 <br>
 
-## Working papers
-<p><b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
-  <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i><br>
-<font size= "3">[<a href="https://cepr.org/publications/dp18492">CEPR discussion paper</a> | <a href="https://gschinaia.github.io/files/papers/20230919_BDOST.pdf"> Draft (09/2023)</a> | <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation</a>]</font></p>
-
-<!-- *
-<details>
-  <summary><b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
-  <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i></summary>
-    <br>
-  <p><i>Abstract:</i>  Aspirations have been posited to condition the future-oriented choices of individuals and thus can play a role in the persistence of poverty or the effort to break out of it. In a randomised control trial in remote, rural Ethiopia, we assess the effectiveness of an intervention seeking to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries about the lives of individuals from similar communities who escaped poverty through their own efforts and, as such, can serve as role models. Five years after the screening took place, the treated households increased future-oriented investments in agriculture and in children's education. The results can be explained by the increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</p>
-<a href="https://cepr.org/publications/dp18492">CEPR discussion paper</a>; <a href="https://gschinaia.github.io/files/papers/20230919_BDOST.pdf"> Draft (09/2023)</a>; <a href="https://www.socialscienceregistry.org/trials/1483">Pre-analysis plan</a>;  <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation (04/2022)</a>
-</details>
- -->
 ## Policy reports
+
+"[Catalyzing Innovation: Scaling Solutions for Resilient Agriculture](https://www.ifc.org/en/insights-reports/2025/catalyzing-and-scaling-innovations-for-resilient-agriculture)",
+ _with members of the International Finance Corporation Impact Evaluation Team and the Secreteriat of the Innovation Commission for Climate Change, Food Security, and Agriculture_ 2025. International Finance Corporation.
+
+"Measuring the Impacts of The Ethiopian Management Institute Training and Consulting Services"
+_with Yetsedaw Emagne Bekele, Harry Dienes, Dan Rogger_. 2023. World Bank.
 
 "Investing in Human Capital and Foundational Skills", _with Emily Gardner_ in [Guinea-Bissau  Country  Economic Memorandum](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/473261604385132681/guinea-bissau-country-economic-memorandum-escaping-the-low-growth-trap). 2020. World Bank, pp. 47-73. 
 
