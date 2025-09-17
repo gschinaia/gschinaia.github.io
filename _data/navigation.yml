@@ -6,17 +6,17 @@ main:
   - title: "CV"
     url: https://gschinaia.github.io/files/gschinaia_cv.pdf
 
-  - title: "Working Papers"
-    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#working-papers  
+#  - title: "Working Papers"
+#    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#working-papers  https://username.github.io/project/docs/getting-started.html#custom-anchor
 
-  - title: "Work in Progress"
-    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#selected-work-in-progress    
+#  - title: "Work in Progress"
+#    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#selected-work-in-progress    
     
-  - title: "Teaching"
-    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#teaching
+#  - title: "Teaching"
+#    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#teaching
         
-  - title: "Policy"
-    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#policy-reports
+#  - title: "Policy"
+#    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#policy-reports
     
-  - title: "Coding and Methods"
-    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#coding-and-methods
+#  - title: "Coding and Methods"
+#    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#coding-and-methods
