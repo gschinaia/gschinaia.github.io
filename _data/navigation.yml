@@ -1,22 +1,22 @@
 # main links links
 main:
-#  - title: "Publications"
-#    url: /publications/
+#  - title: "JMP"
+#    url: https://gschinaia.github.io/files/gschinaia_jmp.pdf
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "CV"
+    url: https://gschinaia.github.io/files/gschinaia_cv.pdf
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Working Papers"
+    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#working-papers  
+
+  - title: "Work in Progress"
+    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#selected-work-in-progress    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
+  - title: "Teaching"
+    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#teaching
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Policy"
+    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#policy-reports
     
-#  - title: "CV"
-#    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Coding and Methods"
+    url: https://github.com/gschinaia/gschinaia.github.io/blob/master/_pages/about.md#coding-and-methods
