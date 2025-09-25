@@ -32,7 +32,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 ## Working papers
 <b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
   <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i>
-<font size= "3">[<i>Conditionally accepted:</i><b>Quarterly Journal of Economics<\b>]
+<font size= "3">[<i>Conditionally accepted:</i><b>Quarterly Journal of Economics</b>]
 [<a href="https://cepr.org/publications/dp18492">CEPR discussion paper</a> | <a href="https://gschinaia.github.io/files/papers/20250625_BDOST.pdf"> Draft (06/2025)</a> | <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation</a>]</font>
 <details> <summary><i>abstract</i></summary> 
   <p> Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomised control trial in remote, rural Ethiopia to explore this and evaluate an intervention which aims to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children's education and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</p>
