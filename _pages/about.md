@@ -20,11 +20,15 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 
 ## Job Market Paper 
 
+<<<<<<< Updated upstream
 <b> Information Frictions and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
+=======
+<b>Information Frictions and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
+>>>>>>> Stashed changes
   <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i>
 <details>
   <summary> <i>abstract</i></summary>
-  <p> We study how reducing asymmetric information affects market outcomes using a nationwide cluster-randomised trial with cashew producers across 290 villages in Guinea-Bissau. Treated producers received weekly digital updates with market news, farmgate prices, and sales guidance over two trading seasons. Access to this information increased sale prices and encouraged producers to spread sales across multiple transactions. We find evidence of increased bargaining power among treated producers and between-village spillovers, likely transmitted via itinerant buyers that interacted with treated producers. Our results show that low-cost digital market information systems can increase price pass-through to producers in export-oriented commodity markets.   </p>
+  <p> We study how reducing information frictions affects market outcomes using a nationwide cluster-randomised trial with cashew producers across 290 villages in Guinea-Bissau. Treated producers received weekly digital updates with market news, farmgate prices, and sales guidance over two trading seasons. Access to this information increased sale prices and encouraged producers to spread sales across multiple transactions. We find evidence of increased bargaining power among treated producers and between-village spillovers, likely transmitted via itinerant buyers that interacted with treated producers. Our results show that low-cost digital market information systems can increase price pass-through to producers in export-oriented commodity markets.   </p>
 <a href="https://www.socialscienceregistry.org/trials/4740">Pre-analysis plan</a>; Draft available upon request.
 </details>
 <br>
