@@ -19,12 +19,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 
 
 ## Job Market Paper 
-
-<<<<<<< Updated upstream
 <b> Information Frictions and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
-=======
-<b>Information Frictions and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
->>>>>>> Stashed changes
   <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i>
 <details>
   <summary> <i>abstract</i></summary>
@@ -49,9 +44,6 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
  </details> <br> 
 
 ## Selected work in progress 
-
-
-
   <b>Direct and Indirect Communication Strategies to Deliver Market Information </b><br> 
 <i>with Brais Álvarez Pereira, Aliu BÁ, Nério Cá, Aida Embaló, Mattia Fracchia, Matilde Graçio, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i>
 <details> <summary> <i>abstract</i>  </summary> 
