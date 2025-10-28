@@ -11,7 +11,7 @@ Hi! I am a Postdoctoral Scholar at the [Development Innovation Lab](https://bfi.
 
 I completed my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
-My main research interests are in development, behavioural, and organisational economics. I use randomised and natural experiments to help answer policy questions. I am currently studying how digital and financial innovations impact households in low-income rural settings, as well as studying interventions to enhance state effectiveness.
+My main research interests are in development, behavioural, labour, and organisational economics. I use randomised and natural experiments to help answer policy questions. I am currently studying how digital and financial innovations impact households in low-income rural settings, as well as studying interventions to enhance state effectiveness.
 
 I am also affiliated with the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/), and scientific director at the [Bissau Economics Lab](https://www.bissaueconomicslab.com/).
 
@@ -25,7 +25,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
   <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i>
 <details>
   <summary> <i>abstract</i></summary>
-  <p> We study how reducing information frictions affects market outcomes using a nationwide cluster-randomised trial with cashew producers across 290 villages in Guinea-Bissau. Treated producers received weekly digital updates with market news, farmgate prices, and sales guidance over two trading seasons. Access to this information increased sale prices and encouraged producers to spread sales across multiple transactions. We find evidence of increased bargaining power among treated producers and between-village spillovers, likely transmitted via itinerant buyers that interacted with treated producers. Our results show that low-cost digital market information systems can increase price pass-through to producers in export-oriented commodity markets.   </p>
+  <p> Price fluctuations in agricultural commodity markets are difficult for producers to track and act upon. We study how providing market information and financial guidance affects producers’ sales decisions and negotiation strategies. Using a nationwide cluster-randomised trial with cashew producers across 290 villages in Guinea-Bissau, we randomly assigned access to weekly updates with market news, farmgate prices, and sales guidance during the trading season. The intervention increased sale prices and encouraged producers to spread sales across multiple transactions. We find evidence of stronger negotiation among treated producers, who switched buyers and earned higher margins during periods of higher prices. Our results suggest low-cost digital advisory services can increase price pass-through to producers in agricultural commodity markets.   </p>
 <a href="https://www.socialscienceregistry.org/trials/4740">Pre-analysis plan</a>; Draft available upon request.
 </details>
 <br>
@@ -33,8 +33,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 ## Working papers
 <b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
   <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i><br>
-<font size= "3">[<i>Conditionally accepted: </i><b>Quarterly Journal of Economics</b>]
-[<a href="https://cepr.org/publications/dp18492">CEPR discussion paper</a> | <a href="https://gschinaia.github.io/files/papers/20250625_BDOST.pdf"> Draft (06/2025)</a> | <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation</a>]</font>
+[<i>Conditionally accepted: </i><b>Quarterly Journal of Economics</b>] [<a href="https://cepr.org/publications/dp18492">CEPR discussion paper</a> | <a href="https://gschinaia.github.io/files/papers/20250625_BDOST.pdf"> Draft (06/2025)</a> | <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation</a>]</font>
 <details> <summary><i>abstract</i></summary> 
   <p> Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomised control trial in remote, rural Ethiopia to explore this and evaluate an intervention which aims to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children's education and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</p>
 </details>  <br>
