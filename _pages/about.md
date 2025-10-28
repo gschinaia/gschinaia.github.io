@@ -15,6 +15,8 @@ My main research interests are in development, behavioural, and organisational e
 
 I am also affiliated with the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/), and scientific director at the [Bissau Economics Lab](https://www.bissaueconomicslab.com/).
 
+<b>I am on the 2025-2026 job market.</b>
+
 [**Curriculum Vitae**](https://gschinaia.github.io/files/gschinaia_cv.pdf)
 
 
@@ -38,6 +40,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 </details>  <br>
 
 <b>Individual Demand for Building State Effectiveness</b><br> <i>with Yetsedaw Emagne Bekele, Harry Dienes, Dan Rogger</i>
+
 [<a href="https://gschinaia.github.io/files/papers/dres_wtp.pdf">Draft (10/2025)</a>]
 <details> <summary><i>abstract</i></summary> 
   <p> Investments in public sector workers’ human capital can generate social returns by improving service delivery and state effectiveness. Yet it is unclear whether public workers internalise these broader benefits when making investment decisions. We elicit willingness-to-pay (WTP) for professional development from Ethiopian public servants and embed randomized interventions targeting perceived returns. Baseline WTP is positive but well below implementation costs. Explicitly emphasising private benefits modestly raises demand, more so than highlighting societal returns. Implicitly increasing the salience of a supportive managerial environment substantially increases WTP, underscoring the role of perceived organisational norms in public service investment decisions.</p> 
