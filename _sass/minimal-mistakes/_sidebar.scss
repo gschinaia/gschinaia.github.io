@@ -247,13 +247,10 @@
   list-style-type: none;
   border: 1px solid $border-color;
   border-radius: $border-radius;
-  background: $background-color;
-  box-shadow: none;
+  background: #fff;
+  z-index: -1;
+  box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
-
-  &.is--visible {
-    display: block;
-  }
 
   @include breakpoint($large) {
     display: block;
