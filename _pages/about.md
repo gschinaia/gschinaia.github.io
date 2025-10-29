@@ -11,7 +11,7 @@ Hi! I am a Postdoctoral Scholar at the [Development Innovation Lab](https://bfi.
 
 I completed my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
-My main research interests are in development, behavioural, labour, and organisational economics. I use randomised and natural experiments to help answer policy questions. I am currently studying how digital and financial innovations impact households in low-income rural settings, as well as studying interventions to enhance state effectiveness.
+My main research interests are in development, behavioral, labor, and organizational economics. I use randomized and natural experiments to help answer policy questions. I am currently studying how digital and financial innovations impact households in low-income rural settings, as well as studying interventions to enhance state effectiveness.
 
 I am also affiliated with the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/), and scientific director at the [Bissau Economics Lab](https://www.bissaueconomicslab.com/).
 
@@ -25,7 +25,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
   <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i>
 <details>
   <summary> <i>abstract</i></summary>
-  <p> Price fluctuations in agricultural commodity markets are difficult for producers to track and act upon. We study how providing market information and financial guidance affects producers’ sales decisions and negotiation strategies. Using a nationwide cluster-randomised trial with cashew producers across 290 villages in Guinea-Bissau, we randomly assigned access to weekly updates with market news, farmgate prices, and sales guidance during the trading season. The intervention increased sale prices and encouraged producers to spread sales across multiple transactions. We find evidence of stronger negotiation among treated producers, who switched buyers and earned higher margins during periods of higher prices. Our results suggest low-cost digital advisory services can increase price pass-through to producers in agricultural commodity markets.   </p>
+  <p> Price fluctuations in agricultural commodity markets are difficult for producers to track and act upon. We study how providing market information and financial guidance affects producers’ sales decisions and negotiation strategies. Using a nationwide cluster-randomized trial with cashew producers across 290 villages in Guinea-Bissau, we randomly assigned access to weekly updates with market news, farmgate prices, and sales guidance during the trading season. The intervention increased sale prices and encouraged producers to spread sales across multiple transactions. We find evidence of stronger negotiation among treated producers, who switched buyers and earned higher margins during periods of higher prices. Our results suggest low-cost digital advisory services can increase price pass-through to producers in agricultural commodity markets.   </p>
 <a href="https://www.socialscienceregistry.org/trials/4740">Pre-analysis plan</a>; Draft available upon request.
 </details>
 <br>
