@@ -19,6 +19,8 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 
 [**Curriculum Vitae**](https://gschinaia.github.io/files/gschinaia_cv.pdf)
 
+[*Research Statement*](https://gschinaia.github.io/files/JM/gschinaia_research-statement.pdf)
+
 
 ## Job Market Paper 
 <b> Information Frictions and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
