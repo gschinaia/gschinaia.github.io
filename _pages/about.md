@@ -24,7 +24,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 
 ## Job Market Paper 
 <b> Information Frictions and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
-  <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i>
+  <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i><br>
   [<a href="https://gschinaia.github.io/files/JM/gschinaia_JMP.pdf">Draft (11/2025)</a>]
 <details>
   <summary> <i>abstract</i></summary>
