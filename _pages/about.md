@@ -24,11 +24,11 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 
 ## Job Market Paper 
 <b> Information Frictions and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
-  <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i>
+  <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i><br>
+  [<a href="https://gschinaia.github.io/files/JM/gschinaia_jmp.pdf">Draft (11/2025)</a>]
 <details>
   <summary> <i>abstract</i></summary>
   <p> Price fluctuations in agricultural commodity markets are difficult for producers to track and act upon. We study how providing market information and financial guidance affects producers’ sales decisions and negotiation strategies. Using a nationwide cluster-randomized trial with cashew producers across 290 villages in Guinea-Bissau, we randomly assigned access to weekly updates with market news, farmgate prices, and sales guidance during the trading season. The intervention increased sale prices and encouraged producers to spread sales across multiple transactions. We find evidence of stronger negotiation among treated producers, who switched buyers and earned higher margins during periods of higher prices. Our results suggest low-cost digital advisory services can increase price pass-through to producers in agricultural commodity markets.   </p>
-<a href="https://www.socialscienceregistry.org/trials/4740">Pre-analysis plan</a>; Draft available upon request.
 </details>
 <br>
 
