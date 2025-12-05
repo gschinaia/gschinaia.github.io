@@ -92,7 +92,7 @@ Introductory Microconomics and Statistics (stipendiary lecturer/adjunct instruct
 </p>
 <p>
 <b>University of Oxford (postgraduate):</b><br>
-Policy Evaluation (seminars), Blavatnik School of Government, 2021.</p>
+Policy Evaluation (seminar leader/teaching assistant), Blavatnik School of Government, 2021.</p>
   
 ## Coding and methods
 
