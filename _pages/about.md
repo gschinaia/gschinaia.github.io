@@ -85,10 +85,10 @@ _with Yetsedaw Emagne Bekele, Harry Dienes, Dan Rogger_. 2023. World Bank.
 ## Teaching
 <p>
 <b>University of Oxford (undergraduate):</b><br>
-Development Economics (tutorials), Department of Economics, 2023.<br>
-Econometrics (tutorials), Merton College, Exeter College, Worcester College, 2022-2023.<br>
-Econometrics and Microeconomics (revision classes), Merton College, 2022.<br>
-Introductory Microconomics and Statistics (revision classes), Merton College, 2022.<br>
+Development Economics (tutor/teaching assistant), Department of Economics, 2023.<br>
+Econometrics (tutor/teaching assistant), Merton College, Exeter College, Worcester College, 2022-2023.<br>
+Econometrics and Microeconomics (stipendiary lecturer/adjunct instructor), Merton College, 2022.<br>
+Introductory Microconomics and Statistics (stipendiary lecturer/adjunct instructor), Merton College, 2022.<br>
 </p>
 <p>
 <b>University of Oxford (postgraduate):</b><br>
