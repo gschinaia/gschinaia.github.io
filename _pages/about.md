@@ -21,7 +21,7 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 
 [*Research Statement*](https://gschinaia.github.io/files/JM/gschinaia_research-statement.pdf)
 
-<sup><sub><i><b>How to pronounce my name</b>: Giulio sounds like "JOOL-yo", as in the month July but ending with "oh". Schinaia sounds like "skee-NYE-ah", as in the sport ski + "NYE" (rhymes with "eye") + "ah". </i> </sub></sup>
+<sup><sub><i><b>How to pronounce my name</b>: Giulio sounds like "JOOL-yo", as in the month July but ending with "oh". Schinaia sounds like "skin-EYE-ah", as the noun 'skin' and the noun 'eye' + "ah". </i> </sub></sup>
 
 ## Job Market Paper 
 <b> Information Frictions and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
@@ -42,9 +42,9 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 </details>  <br>
 
 <b>Individual Demand for Building State Effectiveness</b><br> <i>with Yetsedaw Emagne Bekele, Harry Dienes, Dan Rogger</i><br>
-[<a href="https://gschinaia.github.io/files/papers/dres_wtp.pdf">Draft (10/2025)</a>]
+[<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099848101152649699">World Bank Policy Research Working Paper</a> | <a href="https://gschinaia.github.io/files/papers/dres_wtp.pdf">Draft (10/2025)</a>]
 <details> <summary><i>abstract</i></summary> 
-  <p> Investments in public sector workers’ human capital can generate social returns by improving service delivery and state effectiveness. Yet it is unclear whether public workers internalise these broader benefits when making investment decisions. We elicit willingness-to-pay (WTP) for professional development from Ethiopian public servants and embed randomized interventions targeting perceived returns. Baseline WTP is positive but well below implementation costs. Explicitly emphasising private benefits modestly raises demand, more so than highlighting societal returns. Implicitly increasing the salience of a supportive managerial environment substantially increases WTP, underscoring the role of perceived organisational norms in public service investment decisions.</p> 
+  <p> Investments in public sector workers’ human capital can generate social returns by improving service delivery and state effectiveness. Yet it is unclear whether public workers internalise these broader benefits when making investment decisions. We elicit willingness-to-pay (WTP) for professional development from Ethiopian public servants and embed randomized interventions targeting perceived returns. Baseline WTP is positive but below implementation costs. Explicitly emphasising private benefits modestly raises demand, more so than highlighting societal returns. Implicitly increasing the salience of a supportive managerial environment substantially increases WTP, underscoring the role of perceived organisational norms in public service investment decisions.</p> 
  </details> <br> 
 
 ## Selected work in progress 
