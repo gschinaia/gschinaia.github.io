@@ -15,15 +15,22 @@ My main research interests are in development, behavioral, labor, and organizati
 
 I am also affiliated with the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/), and scientific director at the [Bissau Economics Lab](https://www.bissaueconomicslab.com/).
 
-<b>I am on the 2025-2026 job market.</b>
-
 [**Curriculum Vitae**](https://gschinaia.github.io/files/gschinaia_cv.pdf)
 
 [*Research Statement*](https://gschinaia.github.io/files/JM/gschinaia_research-statement.pdf)
 
 <sup><sub><i><b>How to pronounce my name</b>: Giulio sounds like "JOOL-yo", as in the month July but ending with "oh". Schinaia sounds like "skin-EYE-ah", as the noun 'skin' and the noun 'eye' + "ah". </i> </sub></sup>
 
-## Job Market Paper 
+## Publications 
+<b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
+  <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i><br>
+[<b><a href="https://doi.org/10.1093/qje/qjag002">The Quarterly Journal of Economics</a></b>, Volume 141, Issue 2, May 2026, Pages 1383–1447] <br>
+[<a href="https://cepr.org/publications/dp18492">CEPR Discussion Paper</a> | <a href="https://gschinaia.github.io/files/papers/bdost_ea.pdf"> Draft (01/2026)</a> | <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation</a>]
+<details> <summary><i>abstract</i></summary> 
+  <p> Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomised control trial in remote, rural Ethiopia to explore this and evaluate an intervention which aims to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children's education and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</p>
+</details>  <br>
+
+## Working papers
 <b> Information Frictions and Bargaining: Experimental Evidence From Rural Guinea-Bissau</b><br>
   <i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares</i><br>
   [<a href="https://gschinaia.github.io/files/JM/gschinaia_jmp.pdf">Draft (11/2025)</a> | <a href="https://blogs.worldbank.org/en/impactevaluations/should-i-wait-or-should-i-sell--the-impact-of-market-information"> Blog </a>]
@@ -32,14 +39,6 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
   <p> Price fluctuations in agricultural commodity markets are difficult for producers to track and act upon. We study how providing market information and financial guidance affects producers’ sales decisions and negotiation strategies. Using a nationwide cluster-randomized trial with cashew producers across 290 villages in Guinea-Bissau, we randomly assigned access to weekly updates with market news, farmgate prices, and sales guidance during the trading season. The intervention increased sale prices and encouraged producers to spread sales across multiple transactions. We find evidence of stronger negotiation among treated producers, who switched buyers and earned higher margins during periods of higher prices. Our results suggest low-cost digital advisory services can increase price pass-through to producers in agricultural commodity markets.   </p>
 </details>
 <br>
-
-## Working papers
-<b>The Future in Mind: Aspirations and Long-term Outcomes in Rural Ethiopia</b><br>
-  <i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i><br>
-[<i>Accepted: </i><b><a href="https://doi.org/10.1093/qje/qjag002">Quarterly Journal of Economics </a></b> | <a href="https://cepr.org/publications/dp18492">CEPR Discussion Paper</a> | <a href="https://gschinaia.github.io/files/papers/bdost_ea.pdf"> Draft (01/2026)</a> | <a href="https://www.youtube.com/watch?v=9kCeLVL29Ck">Video presentation</a>]
-<details> <summary><i>abstract</i></summary> 
-  <p> Aspirations may condition the future-oriented choices of individuals and thus may play a role in the persistence of poverty or the effort to break out of it. We run a randomised control trial in remote, rural Ethiopia to explore this and evaluate an intervention which aims to change how poor people perceive their future opportunities, alter their aspirations and, through that, modify their investment decisions. A treatment group was shown video documentaries featuring individuals from similar communities who escaped poverty through their own efforts and serve as relatable role models. Five years after the screening took place, the treated households had increased future-oriented investments in agriculture, children's education and assets. The results can be explained by an increase in aspirations in terms of lifetime goals. Overall, this research uniquely provides evidence that a light-touch behavioural intervention can have persistent economic impacts on a poor population.</p>
-</details>  <br>
 
 <b>Individual Demand for Building State Effectiveness</b><br> <i>with Yetsedaw Emagne Bekele, Harry Dienes, Dan Rogger</i><br>
 [<a href="https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099848101152649699">World Bank Policy Research Working Paper</a> | <a href="https://gschinaia.github.io/files/papers/dres_wtp.pdf">Draft (03/2026)</a>]
