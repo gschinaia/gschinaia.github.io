@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I am a Postdoctoral Scholar at the [Development Innovation Lab](https://bfi.uchicago.edu/development-innovation-lab/) at the University of Chicago.
+Hi! I am a Postdoctoral Scholar working with the [Human-Centered Weather Forecasts (HCWF) Initiative](https://humancenteredforecasts.climate.uchicago.edu/) as part of the [Institute for Climate and Sustainable Growth](https://climate.uchicago.edu/) at the University of Chicago.
 
 I completed my PhD (DPhil) at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
